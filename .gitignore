@@ -1,0 +1,16 @@
+# サンプルデータ（個人情報・農場情報を含む実データは除外）
+sample/
+
+# ユーザーが作成したデータファイル
+*.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
+
+# Claude Code
+.claude/
